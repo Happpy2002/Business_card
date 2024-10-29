@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="my_name">Do Tu Vy Nguyen</string>
+
+    <string name="my_email">vy123@example.com</string>
+    <string name="my_phone">11 (123) 444 555 666</string>
+    <string name="my_title">Android Developer Extraodinarie</string>
+    <string name="my_social">@_HappyHappy</string>
+</resources>
